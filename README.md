@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/03f8d297-7334-42e5-aef5-27049ead7093)
 # Tutorial: Setting Up a Debian 12 Server with Docker, WordPress, MySQL, and Cloudflare
 
 ## About This Tutorial
